@@ -1,0 +1,1 @@
+An algorithm which locates the strongly connected components
